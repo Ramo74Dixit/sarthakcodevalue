@@ -392,7 +392,7 @@ const data=[
         `}</style>
            <input
       type="search"
-      placeholder='Seach Your Course'
+      placeholder='Seach Your Course Sir if you want'
       value={search}
       onChange={(e)=>setSearch(e.target.value)}
       />
